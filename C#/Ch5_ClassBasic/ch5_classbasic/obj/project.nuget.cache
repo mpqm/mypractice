@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "gEvTNX43F9p8/XpG+BSpl25vufnR37toPF7z6pYbidnMkGlGJMPrWHscQ/e38BjG3v7YR6b1U0tquFf/JeT58w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okqkr\\Source\\Repos\\ch5_classbasic\\ch5_classbasic\\ch5_classbasic.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

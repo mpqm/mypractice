@@ -1,0 +1,16 @@
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\bin\Debug\net5.0\ch5_classbasic.exe
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\bin\Debug\net5.0\ch5_classbasic.deps.json
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\bin\Debug\net5.0\ch5_classbasic.runtimeconfig.json
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\bin\Debug\net5.0\ch5_classbasic.runtimeconfig.dev.json
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\bin\Debug\net5.0\ch5_classbasic.dll
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\bin\Debug\net5.0\ref\ch5_classbasic.dll
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\bin\Debug\net5.0\ch5_classbasic.pdb
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ch5_classbasic.csproj.AssemblyReference.cache
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ch5_classbasic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ch5_classbasic.AssemblyInfoInputs.cache
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ch5_classbasic.AssemblyInfo.cs
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ch5_classbasic.csproj.CoreCompileInputs.cache
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ch5_classbasic.dll
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ref\ch5_classbasic.dll
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ch5_classbasic.pdb
+C:\Users\okqkr\Source\Repos\ch5_classbasic\ch5_classbasic\obj\Debug\net5.0\ch5_classbasic.genruntimeconfig.cache
