@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "BUAPpzldIkiqfQ+OAicKJvfiQdNLjJ6RJ9ORtHG+2+d6p2pJHEVg4j+8aq7/QGojbz7Mer18wgVLEyq2tEuEZw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okqkr\\Source\\Repos\\ch6_method\\ch6_method\\ch6_method.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

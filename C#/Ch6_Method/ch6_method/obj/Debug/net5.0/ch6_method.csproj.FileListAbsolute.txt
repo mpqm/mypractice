@@ -1,0 +1,16 @@
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\bin\Debug\net5.0\ch6_method.exe
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\bin\Debug\net5.0\ch6_method.deps.json
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\bin\Debug\net5.0\ch6_method.runtimeconfig.json
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\bin\Debug\net5.0\ch6_method.runtimeconfig.dev.json
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\bin\Debug\net5.0\ch6_method.dll
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\bin\Debug\net5.0\ref\ch6_method.dll
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\bin\Debug\net5.0\ch6_method.pdb
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ch6_method.csproj.AssemblyReference.cache
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ch6_method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ch6_method.AssemblyInfoInputs.cache
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ch6_method.AssemblyInfo.cs
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ch6_method.csproj.CoreCompileInputs.cache
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ch6_method.dll
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ref\ch6_method.dll
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ch6_method.pdb
+C:\Users\okqkr\Source\Repos\ch6_method\ch6_method\obj\Debug\net5.0\ch6_method.genruntimeconfig.cache
