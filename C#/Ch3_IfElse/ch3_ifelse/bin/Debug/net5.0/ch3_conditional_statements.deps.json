@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "ch3_conditional_statements/1.0.0": {
+        "runtime": {
+          "ch3_conditional_statements.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ch3_conditional_statements/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,16 @@
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\bin\Debug\net5.0\ch3_conditional_statements.exe
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\bin\Debug\net5.0\ch3_conditional_statements.deps.json
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\bin\Debug\net5.0\ch3_conditional_statements.runtimeconfig.json
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\bin\Debug\net5.0\ch3_conditional_statements.runtimeconfig.dev.json
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\bin\Debug\net5.0\ch3_conditional_statements.dll
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\bin\Debug\net5.0\ref\ch3_conditional_statements.dll
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\bin\Debug\net5.0\ch3_conditional_statements.pdb
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ch3_conditional_statements.csproj.AssemblyReference.cache
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ch3_conditional_statements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ch3_conditional_statements.AssemblyInfoInputs.cache
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ch3_conditional_statements.AssemblyInfo.cs
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ch3_conditional_statements.csproj.CoreCompileInputs.cache
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ch3_conditional_statements.dll
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ref\ch3_conditional_statements.dll
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ch3_conditional_statements.pdb
+C:\Users\okqkr\Source\Repos\ch3_ifelse\ch3_ifelse\obj\Debug\net5.0\ch3_conditional_statements.genruntimeconfig.cache

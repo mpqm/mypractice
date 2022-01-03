@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "n+E712TTnSdaCeJ2A1MafUSh4quuHXGZDSBKvDdH2du/5pxzddh0Q8uEcWGY+4vvL1Owvc+N+Y9BdI6j6o6zkQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okqkr\\Source\\Repos\\ch3_ifelse\\ch3_ifelse\\ch3_conditional.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
