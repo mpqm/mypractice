@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "laV9NPVhN17G6XjuMvltDAB9Gf6bciivtWaPYMgjKMBbhB2IRvseOzC7ZeoJ4uE6nGZQlSDOJ6MYyrdWBA2lTQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\okqkr\\Source\\Repos\\ch4_loops\\ch4_loops\\ch4_loops.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

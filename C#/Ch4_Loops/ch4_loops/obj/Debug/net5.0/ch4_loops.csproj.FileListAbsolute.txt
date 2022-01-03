@@ -1,0 +1,16 @@
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\bin\Debug\net5.0\ch4_loops.exe
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\bin\Debug\net5.0\ch4_loops.deps.json
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\bin\Debug\net5.0\ch4_loops.runtimeconfig.json
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\bin\Debug\net5.0\ch4_loops.runtimeconfig.dev.json
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\bin\Debug\net5.0\ch4_loops.dll
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\bin\Debug\net5.0\ref\ch4_loops.dll
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\bin\Debug\net5.0\ch4_loops.pdb
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ch4_loops.csproj.AssemblyReference.cache
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ch4_loops.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ch4_loops.AssemblyInfoInputs.cache
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ch4_loops.AssemblyInfo.cs
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ch4_loops.csproj.CoreCompileInputs.cache
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ch4_loops.dll
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ref\ch4_loops.dll
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ch4_loops.pdb
+C:\Users\okqkr\Source\Repos\ch4_loops\ch4_loops\obj\Debug\net5.0\ch4_loops.genruntimeconfig.cache
