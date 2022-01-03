@@ -1,0 +1,16 @@
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\bin\Debug\net5.0\ch2_bassic.exe
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\bin\Debug\net5.0\ch2_bassic.deps.json
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\bin\Debug\net5.0\ch2_bassic.runtimeconfig.json
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\bin\Debug\net5.0\ch2_bassic.runtimeconfig.dev.json
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\bin\Debug\net5.0\ch2_bassic.dll
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\bin\Debug\net5.0\ref\ch2_bassic.dll
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\bin\Debug\net5.0\ch2_bassic.pdb
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ch2_bassic.csproj.AssemblyReference.cache
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ch2_bassic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ch2_bassic.AssemblyInfoInputs.cache
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ch2_bassic.AssemblyInfo.cs
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ch2_bassic.csproj.CoreCompileInputs.cache
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ch2_bassic.dll
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ref\ch2_bassic.dll
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ch2_bassic.pdb
+C:\Users\okqkr\Source\Repos\ch2_bassic\ch2_bassic\obj\Debug\net5.0\ch2_bassic.genruntimeconfig.cache
