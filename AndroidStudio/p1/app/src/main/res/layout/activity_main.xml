@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/btn_fragment"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fragment" />
+
+    <Button
+        android:id="@+id/btn_pager"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Pager" />
+
+    <Button
+        android:id="@+id/btn_sharedpreference"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="SHAREDPREFERENCE" />
+
+    <Button
+        android:id="@+id/btn_post3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="post" />
+    <Button
+        android:id="@+id/btn_async"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="async" />
+    <Button
+        android:id="@+id/btn_glide"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="glide" />
+
+
+</LinearLayout>
