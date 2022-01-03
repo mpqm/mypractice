@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Zcjdz9OI/sBKls5VK45jWPEdBLqj6aQYHzTngyEZ8e1lpjakmGNTgIRER/jDLKGjxh5kiE291CtdK+xhGkeghQ==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\1111college\\실습. 윈도우프로그래밍\\code\\ch7_Inheritance_polymorphism\\ch7_Inheritance_polymorphism\\ch7_Inheritance_polymorphism.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

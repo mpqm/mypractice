@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "TouT+7DGQD6IUQXv4f97IB4Bsh5bEwZGDFY53ueqmXih+C5nMTMvvUdjrCIpjwWum0HQu2YCjBJclwKqJ3w/ig==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\1111college\\실습. 윈도우프로그래밍\\code\\ch9_interface\\ch9_interface\\ch9_interface.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

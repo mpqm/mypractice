@@ -1,0 +1,16 @@
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\bin\Debug\net5.0\ch8_hard_class.exe
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\bin\Debug\net5.0\ch8_hard_class.deps.json
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\bin\Debug\net5.0\ch8_hard_class.runtimeconfig.json
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\bin\Debug\net5.0\ch8_hard_class.runtimeconfig.dev.json
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\bin\Debug\net5.0\ch8_hard_class.dll
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\bin\Debug\net5.0\ref\ch8_hard_class.dll
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\bin\Debug\net5.0\ch8_hard_class.pdb
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ch8_hard_class.csproj.AssemblyReference.cache
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ch8_hard_class.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ch8_hard_class.AssemblyInfoInputs.cache
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ch8_hard_class.AssemblyInfo.cs
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ch8_hard_class.csproj.CoreCompileInputs.cache
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ch8_hard_class.dll
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ref\ch8_hard_class.dll
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ch8_hard_class.pdb
+C:\workspace\1111college\실습. 윈도우프로그래밍\code\ch8_hard_class\ch8_hard_class\obj\Debug\net5.0\ch8_hard_class.genruntimeconfig.cache

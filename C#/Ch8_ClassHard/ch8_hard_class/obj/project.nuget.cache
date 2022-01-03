@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GxpQXCl3l8dyswCe6UCWPJs8oteblFaXHjV7f25u29ZPRSVyt9sLNOiGT+sut8K1sbKDeLY1p+RcgadAMpNu1w==",
+  "success": true,
+  "projectFilePath": "C:\\workspace\\1111college\\실습. 윈도우프로그래밍\\code\\ch8_hard_class\\ch8_hard_class\\ch8_hard_class.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\5.0.0\\microsoft.aspnetcore.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\5.0.0\\microsoft.windowsdesktop.app.ref.5.0.0.nupkg.sha512",
+    "C:\\Users\\okqkr\\.nuget\\packages\\microsoft.netcore.app.ref\\5.0.0\\microsoft.netcore.app.ref.5.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

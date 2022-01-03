@@ -1,0 +1,16 @@
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\bin\Debug\net5.0\ch7_Inheritance_polymorphism.exe
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\bin\Debug\net5.0\ch7_Inheritance_polymorphism.deps.json
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\bin\Debug\net5.0\ch7_Inheritance_polymorphism.runtimeconfig.json
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\bin\Debug\net5.0\ch7_Inheritance_polymorphism.runtimeconfig.dev.json
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\bin\Debug\net5.0\ch7_Inheritance_polymorphism.dll
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\bin\Debug\net5.0\ref\ch7_Inheritance_polymorphism.dll
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\bin\Debug\net5.0\ch7_Inheritance_polymorphism.pdb
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ch7_Inheritance_polymorphism.csproj.AssemblyReference.cache
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ch7_Inheritance_polymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ch7_Inheritance_polymorphism.AssemblyInfoInputs.cache
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ch7_Inheritance_polymorphism.AssemblyInfo.cs
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ch7_Inheritance_polymorphism.csproj.CoreCompileInputs.cache
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ch7_Inheritance_polymorphism.dll
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ref\ch7_Inheritance_polymorphism.dll
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ch7_Inheritance_polymorphism.pdb
+C:\Users\okqkr\Source\Repos\ch7_Inheritance_polymorphism\ch7_Inheritance_polymorphism\obj\Debug\net5.0\ch7_Inheritance_polymorphism.genruntimeconfig.cache
